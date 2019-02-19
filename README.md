@@ -1,5 +1,9 @@
 # Puppet dell_info
 
+## Backstop Fork Info
+
+This module appears abandoned (last commit 2 years ago) and there's a bug that makes facter rather noisy. We've forked this module to fix that bug. Scott has also submitted a pull request to the original author.
+
 ## Overview
 
 This puppet module adds custom facts aquired by querying https://api.dell.com/. It supports the v4 API.
